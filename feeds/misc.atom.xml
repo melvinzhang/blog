@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - misc</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/misc.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2011-07-06T21:39:00+08:00</updated><entry><title>NDP 2011 Theme Song - In A Heartbeat</title><link href="https://blog.melvinzhang.net/ndp-2011-theme-song-in-a-heartbeat" rel="alternate"></link><published>2011-07-06T21:39:00+08:00</published><updated>2011-07-06T21:39:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-07-06:/ndp-2011-theme-song-in-a-heartbeat</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/VIgoiKKa9_E'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;MTV for "In A Heartbeat", theme song for this year's NDP.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Blogging with Email</title><link href="https://blog.melvinzhang.net/blogging-with-email" rel="alternate"></link><published>2011-04-25T10:56:00+08:00</published><updated>2011-04-25T10:56:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-25:/blogging-with-email</id><summary type="html">&lt;p&gt;On my last trip to China in 2009, I found that WordPress was blocked. The platform has also become rather bloated and complicated to use. I eventually migrated to Posterous, which is based on email. You send an email to &lt;a href="mailto:post@posterous.com"&gt;post@posterous.com&lt;/a&gt; and your blog post get created automatically …&lt;/p&gt;</summary><content type="html">&lt;p&gt;On my last trip to China in 2009, I found that WordPress was blocked. The platform has also become rather bloated and complicated to use. I eventually migrated to Posterous, which is based on email. You send an email to &lt;a href="mailto:post@posterous.com"&gt;post@posterous.com&lt;/a&gt; and your blog post get created automatically from the content of the mail. This has the benefit of using a mature system to write and send messages (aka email) instead of a clunky web interface. Another benefit of using email, that I discovered recently in Shanghai, is that I can still create posts even though Posterous is blocked (ironically WordPress has been unblocked).&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Loving You</title><link href="https://blog.melvinzhang.net/loving-you" rel="alternate"></link><published>2010-07-16T05:10:20+08:00</published><updated>2010-07-16T05:10:20+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-07-16:/loving-you</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/brr61iOMw0M'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;One of the best renditions of Loving You that I've heard. Her control of the whistle register is amazing!&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Asymptote: A language for vector graphics</title><link href="https://blog.melvinzhang.net/asymptote-a-language-for-vector-graphics" rel="alternate"></link><published>2009-04-02T05:56:50+08:00</published><updated>2009-04-02T05:56:50+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-04-02:/asymptote-a-language-for-vector-graphics</id><summary type="html">&lt;p&gt;&lt;a href="http://asymptote.sourceforge.net/"&gt;Asymptote&lt;/a&gt; is a language for describing
+vector graphics, with a syntax that is similar to C++ but more mathematically
+oriented. For example, pairs and triples are directly represented in the
+language as (x,y) and (x,y,z) respectively.&lt;/p&gt;
+&lt;p&gt;Recently, I wanted to create a simple illustration for a programming …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://asymptote.sourceforge.net/"&gt;Asymptote&lt;/a&gt; is a language for describing
+vector graphics, with a syntax that is similar to C++ but more mathematically
+oriented. For example, pairs and triples are directly represented in the
+language as (x,y) and (x,y,z) respectively.&lt;/p&gt;
+&lt;p&gt;Recently, I wanted to create a simple illustration for a programming task on stacks. Using Asymptote, I created the following image:&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2009/04/02/asymptote-a-language-for-vector-graphics/11636347-media_httpmelvinzhang_uJgwh.png" width="480"&gt;&lt;/p&gt;
+&lt;p&gt;A structured image is similar to a structured program because it can be
+decomposed into simpler elements that are repeated with slight differences,
+analogous to the way functions are called with different parameters. In my
+illustration, the basic component is a labeled box, i.e. a square with a label.
+Several boxes are arranged vertically to form a stack. Three stacks are
+arranged side-by-side to illustrate the given input and expected output.&lt;/p&gt;
+&lt;p&gt;Asymptote code of the above illustration is shown below:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;picture labelbox(string s, pair corner, int width=1, int height=1) {
+    picture pict;
+    path box = corner--(corner.x+width,corner.y)--
+                   (corner.x+width,corner.y+height)--
+                   (corner.x,corner.y+height)--cycle;
+    draw(pict, box);
+    label(pict, s, corner, NE);
+    return pict;
+}
+
+picture stack(string s, int[] v = {}) {
+    picture pict;
+    label(pict, s, (0.5,0), S);
+    draw(pict, (0,0)--(1,0));
+    for (int i = 0; i &lt;span class="nt"&gt;&amp;lt;/pre&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="misc"></category></entry><entry><title>Writing under pressure</title><link href="https://blog.melvinzhang.net/writing-under-pressure" rel="alternate"></link><published>2009-01-25T13:53:29+08:00</published><updated>2009-01-25T13:53:29+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-01-25:/writing-under-pressure</id><summary type="html">&lt;p&gt;Guest blogging for the NUS SoC blog has taught me that it is important to set
+some goals for blogging. Having only one week to write made me think hard about
+the topics I wanted to cover in the limited time.  I contributed a total of
+five posts, which you …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Guest blogging for the NUS SoC blog has taught me that it is important to set
+some goals for blogging. Having only one week to write made me think hard about
+the topics I wanted to cover in the limited time.  I contributed a total of
+five posts, which you can find &lt;a href="http://nusschoolofcomputing.blogspot.com/search/label/Melvin%20Zhang"&gt;here&lt;/a&gt;.
+I'm not sure what will happen to the NUS SoC blog in the future, so I'm
+considering moving my posts to this blog for safe keeping.&lt;/p&gt;
+&lt;p&gt;The ability to write well is critical to doing research, because the best ideas
+are useless unless they can be communicated to the larger community. It is not
+just about describing your idea but also providing the right amount of
+background information and motivation to the reader so that he/she can
+appreciate its usefulness.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Leaving Paris soon</title><link href="https://blog.melvinzhang.net/leaving-paris-soon" rel="alternate"></link><published>2008-10-18T14:05:00+08:00</published><updated>2008-10-18T14:05:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-10-18:/leaving-paris-soon</id><summary type="html">&lt;p&gt;&lt;img src="/images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675153-D1_02_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675147-D2_01_conf.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675141-D2_02_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675133-D2_03_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675127-D2_04_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675120-D2_05_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675110-D2_06_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675100-D2_07_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675094-D2_08_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675085-D2_09_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675080-D2_10_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675076-D2_11_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675069-D2_12_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675059-D4_tower1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675056-D4_tower2.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675049-D4_tower3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675043-D4_tower4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675036-D5_louvre1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675024-D5_louvre3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675019-D5_louvre4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675016-D5_louvre5.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675009-D5_louvre6.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674995-D5_louvre8.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674988-D5_louvre9.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675004-D5_louvre7.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674984-D5_street1.jpg" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;My trip to Paris for the RECOMB Comparative Genomics workshop is coming to an
+end. It has been a great week.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://igm.univ-mlv.fr/RCG08/"&gt;RECOMB Comparative Genomics Workshop&lt;/a&gt; was
+held from Monday to Wednesday. My talk was on the second day, it went smoothly
+but ended a little early. There was only …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675153-D1_02_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675147-D2_01_conf.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675141-D2_02_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675133-D2_03_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675127-D2_04_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675120-D2_05_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675110-D2_06_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675100-D2_07_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675094-D2_08_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675085-D2_09_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675080-D2_10_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675076-D2_11_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675069-D2_12_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675059-D4_tower1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675056-D4_tower2.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675049-D4_tower3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675043-D4_tower4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675036-D5_louvre1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675024-D5_louvre3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675019-D5_louvre4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675016-D5_louvre5.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675009-D5_louvre6.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674995-D5_louvre8.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674988-D5_louvre9.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675004-D5_louvre7.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674984-D5_street1.jpg" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;My trip to Paris for the RECOMB Comparative Genomics workshop is coming to an
+end. It has been a great week.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://igm.univ-mlv.fr/RCG08/"&gt;RECOMB Comparative Genomics Workshop&lt;/a&gt; was
+held from Monday to Wednesday. My talk was on the second day, it went smoothly
+but ended a little early. There was only one question, but after the talk a
+couple of people came and gave me some suggestions. On the same day as my talk,
+there was a dinner cruise on the river Seine and I got to meet some other folks
+during the dinner. All in all, it was a great conference as the topics
+discussed are closely related to my own work.&lt;/p&gt;
+&lt;p&gt;The only problem I encountered was being unable to use my N82 to take
+pictures. Meddling with the settings and doing a reset did not help, in the end
+I had to buy 2 disposable cameras.&lt;/p&gt;
+&lt;p&gt;After the conference ended on Wednesday, I visited Le Panthéon. The most
+interesting part is the underground crypt, which houses the remains of
+distinguished citizens of France, including Marie Curie. Given the number of
+CRPG games with crypt levels, I was half expecting skeletons and zombies to
+jump out at me. After that, I went to Jardin du Luxembourg, the largest park in
+Paris. It was a refreshing change from the concrete jungle of the city.&lt;/p&gt;
+&lt;p&gt;The first half of Thursday was spent visiting Prof Frej Tekaia. We had a
+good discussion on some research problems of mutual interest. After that, I
+went to see the Eiffel Tower, it looks a lot bigger up close as compared to
+when I saw it from afar during the dinner cruise.&lt;/p&gt;
+&lt;p&gt;Finally on Friday, I visited the Louvre Museum and saw the Mona Lisa, among
+many other sculptors and paintings. Personally, I don't quite understand why
+the Mona Lisa is so famous. The last place I visited was the La Grande Galerie
+de l'Evolution (roughly translated as Grand Gallery of Evolution),I found it
+more fascinating than the Louvre.&lt;/p&gt;
+&lt;p&gt;Hopefully, the pictures from the disposable camera can be developed. Then
+I'll scan them and add them to this post.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>IOI 2008 is over</title><link href="https://blog.melvinzhang.net/ioi-2008-is-over" rel="alternate"></link><published>2008-08-24T14:37:54+08:00</published><updated>2008-08-24T14:37:54+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-08-24:/ioi-2008-is-over</id><summary type="html">&lt;p&gt;IOI has finally ended but the Singapore team is staying one additional day
+because the direct flight from Egypt to Singapore via SIA leaves on Sunday. I'm
+using this time to update my blog but unfortunately I left my micro USB cable
+in my room so I'm unable to upload …&lt;/p&gt;</summary><content type="html">&lt;p&gt;IOI has finally ended but the Singapore team is staying one additional day
+because the direct flight from Egypt to Singapore via SIA leaves on Sunday. I'm
+using this time to update my blog but unfortunately I left my micro USB cable
+in my room so I'm unable to upload any photos from my N82, will have to do that
+after I get back to Singapore.&lt;/p&gt;
+&lt;p&gt;This year, the contestants won 1 silver and 3 bronze medals, which is an improvement over the 1 silver and 2 bronze medals from last year. More importantly, everyone got a medal. Singapore has taken part in IOI since 1992 and the only other years which we achieved this was in 1997 (1S 3B) and 2001 (2G 2S). A detailed listing of our achievements in IOI is available from the NOI website, &lt;a href="http://www.comp.nus.edu.sg/%7Enoi/infonoi.html"&gt;http://www.comp.nus.edu.sg/~noi/infonoi.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the fourth year I am attending IOI and it is really a nice feeling
+seeing the familiar faces from the various country delegations. During some of
+our discussions, we toyed around with the idea of hosting IOI in Singapore by
+2015. My dream of hosting an ACM ICPC regional in Singapore was realized in
+December 2007, perhaps one day we will also host the IOI.&lt;/p&gt;
+&lt;p&gt;Update 27th Aug: Photos are available &lt;a href="http://algorithmics.comp.nus.edu.sg/wiki/gallery/egypt_2008"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Update 17th Oct: Result in 1997 should be 1S 3B&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Software is Hard</title><link href="https://blog.melvinzhang.net/software-is-hard" rel="alternate"></link><published>2008-05-16T07:19:28+08:00</published><updated>2008-05-16T07:19:28+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-05-16:/software-is-hard</id><summary type="html">&lt;p&gt;I've been revisiting some code I wrote a couple of months ago in order to
+implement some new ideas. It is amazing how much information you need to keep
+in your head to even start working on a modification of existing code. It took
+me a while to get used …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've been revisiting some code I wrote a couple of months ago in order to
+implement some new ideas. It is amazing how much information you need to keep
+in your head to even start working on a modification of existing code. It took
+me a while to get used to the code again, thankfully I had written some simple
+comments.&lt;/p&gt;
+&lt;p&gt;At the point of writing the program, writing comments seems like a waste of
+time because all the information is already at your fingertips, but if you try
+to work on the program again after a while, you will find the comments
+invaluable.&lt;/p&gt;
+&lt;p&gt;There are other reasons why writing software is so difficult, see this &lt;a href="http://reddit.com/r/programming/info/6j1mf/comments/c03zf02"&gt;Reddit comment&lt;/a&gt;.&lt;/p&gt;</content><category term="misc"></category></entry></feed>

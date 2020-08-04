@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - outreach</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/outreach.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2009-12-23T09:42:13+08:00</updated><entry><title>From Research to Teaching and Outreach</title><link href="https://blog.melvinzhang.net/from-research-to-teaching-and-outreach" rel="alternate"></link><published>2009-12-23T09:42:13+08:00</published><updated>2009-12-23T09:42:13+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/from-research-to-teaching-and-outreach</id><summary type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/from-research-to-teaching-and-outreach.html"&gt;here&lt;/a&gt;
+on 07/01/09.&lt;/p&gt;
+&lt;p&gt;In my previous post I talked about research in CS, one of the goals of research
+is to advance our understanding in a specific area. IMHO, there are at least
+three different "frontiers" of understanding: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;expertise of other researchers/practitioner in the area …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/from-research-to-teaching-and-outreach.html"&gt;here&lt;/a&gt;
+on 07/01/09.&lt;/p&gt;
+&lt;p&gt;In my previous post I talked about research in CS, one of the goals of research
+is to advance our understanding in a specific area. IMHO, there are at least
+three different "frontiers" of understanding: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;expertise of other researchers/practitioner in the area (the usual sense of research)&lt;/li&gt;
+&lt;li&gt;level of understanding attained by undergraduates in the area (teaching)&lt;/li&gt;
+&lt;li&gt;public or layman understanding/appreciation of the area (outreach)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both teaching and outreach are important to the development of a field because
+it expands the talent pool and imparts modes of thinking that are peculiar to
+the area. In recent years, there is push to promote &lt;a href="http://www.cs.cmu.edu/%C2%A0CompThink/"&gt;Computational
+Thinking&lt;/a&gt; as a fundamental skill, on
+equal terms with reading, writing, and arithmetic.&lt;/p&gt;
+&lt;p&gt;I’ve helped out at the NUS SoC open house booth for the last two years, and a
+recurring problem is that most folks have no clue as to what we do in
+Computing. I think the Europeans got it right when they used the term
+“Informatics” instead of “Computer Science”. As
+&lt;a href="http://www.cs.utexas.edu/users/EWD/"&gt;Dijkstra&lt;/a&gt; wrote in
+&lt;a href="http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD682.html"&gt;EWD682&lt;/a&gt;,
+“we don’t call painting ‘brush art’, nor surgery ‘knife science’ ”.
+Incidentally, Dijkstra is probably one of the earliest bloggers, he started to
+send his writings to colleagues by regular mail, before the advent of the
+Internet. Now, you can view his writings at the &lt;a href="http://www.cs.utexas.edu/users/EWD/"&gt;EWD
+Archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I prefer the term “Information Engineering”, which puts the emphasis on the
+object of our study, information, and away from the tool we use, the computer.
+Most people tend to have a better sense of what is engineering, it is about
+building useful things. In computing, we design algorithms and build software
+to manage/process information.&lt;/p&gt;
+&lt;p&gt;Do you have some simple way to describe what we do in Computing to the layman?
+Do share your ideas/suggestions in the comments.   &lt;/p&gt;</content><category term="outreach"></category></entry></feed>

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2013-05-08T20:57:00+08:00</updated><entry><title>Goodbye Posterous, Hello Octopress</title><link href="https://blog.melvinzhang.net/goodbye-posterous-hello-octopress" rel="alternate"></link><published>2013-05-08T20:57:00+08:00</published><updated>2013-05-08T20:57:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2013-05-08:/goodbye-posterous-hello-octopress</id><summary type="html">&lt;p&gt;Haven't been updaing for while, a lot has happened since my last post. I've
+completed my Computer Science PhD at NUS and I'm now working at
+&lt;a href="http://hoiio.com"&gt;Hoiio&lt;/a&gt; in the API team. &lt;/p&gt;
+&lt;p&gt;The closure of Posterous forced me to do something to keep the site online.
+I've decided to migrate to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Haven't been updaing for while, a lot has happened since my last post. I've
+completed my Computer Science PhD at NUS and I'm now working at
+&lt;a href="http://hoiio.com"&gt;Hoiio&lt;/a&gt; in the API team. &lt;/p&gt;
+&lt;p&gt;The closure of Posterous forced me to do something to keep the site online.
+I've decided to migrate to &lt;a href="http://octopress.org"&gt;Octopress&lt;/a&gt; as it generates a
+set of static files, currently hosted on GitHub Pages.&lt;/p&gt;
+&lt;p&gt;One of the benefits of using my own domain is that I'm able to preserve any
+existing links that point to the old Posterous hosted site. Migration from
+Posterous to Octopress is a lot easier than I expected by following the
+instruction from &lt;a href="http://blog.mikebourgeous.com/2013/04/29/how-i-migrated-from-posterous-to-octopress/"&gt;here&lt;/a&gt;.&lt;/p&gt;</content><category term="tools"></category></entry><entry><title>My ten seconds of fame</title><link href="https://blog.melvinzhang.net/my-ten-seconds-of-fame" rel="alternate"></link><published>2011-07-24T21:38:00+08:00</published><updated>2011-07-24T21:38:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-07-24:/my-ten-seconds-of-fame</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/VLZ1ZMlGmyM?start=163'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Paul Martiz gave a talk on cloud computing at SoC and I was one of four
+people selected to give our impressions of the talk. My short clip made it to
+the final video and more amazingly my segment was used as the preview image of
+the video.&lt;/p&gt;</content><category term="interview"></category></entry><entry><title>Happy 20th Birthday, Linux!</title><link href="https://blog.melvinzhang.net/happy-20th-birthday-linux" rel="alternate"></link><published>2011-07-21T10:33:00+08:00</published><updated>2011-07-21T10:33:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-07-21:/happy-20th-birthday-linux</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/5ocq6_3-nEw'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;More information at &lt;a href="http://www.linuxfoundation.org/20th/"&gt;http://www.linuxfoundation.org/20th/&lt;/a&gt;&lt;/p&gt;</content><category term="linux"></category></entry><entry><title>NDP 2011 Theme Song - In A Heartbeat</title><link href="https://blog.melvinzhang.net/ndp-2011-theme-song-in-a-heartbeat" rel="alternate"></link><published>2011-07-06T21:39:00+08:00</published><updated>2011-07-06T21:39:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-07-06:/ndp-2011-theme-song-in-a-heartbeat</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/VIgoiKKa9_E'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;MTV for "In A Heartbeat", theme song for this year's NDP.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Blogging with Email</title><link href="https://blog.melvinzhang.net/blogging-with-email" rel="alternate"></link><published>2011-04-25T10:56:00+08:00</published><updated>2011-04-25T10:56:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-25:/blogging-with-email</id><summary type="html">&lt;p&gt;On my last trip to China in 2009, I found that WordPress was blocked. The platform has also become rather bloated and complicated to use. I eventually migrated to Posterous, which is based on email. You send an email to &lt;a href="mailto:post@posterous.com"&gt;post@posterous.com&lt;/a&gt; and your blog post get created automatically …&lt;/p&gt;</summary><content type="html">&lt;p&gt;On my last trip to China in 2009, I found that WordPress was blocked. The platform has also become rather bloated and complicated to use. I eventually migrated to Posterous, which is based on email. You send an email to &lt;a href="mailto:post@posterous.com"&gt;post@posterous.com&lt;/a&gt; and your blog post get created automatically from the content of the mail. This has the benefit of using a mature system to write and send messages (aka email) instead of a clunky web interface. Another benefit of using email, that I discovered recently in Shanghai, is that I can still create posts even though Posterous is blocked (ironically WordPress has been unblocked).&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Touring Xu Jia Hui</title><link href="https://blog.melvinzhang.net/touring-xu-jia-hui" rel="alternate"></link><published>2011-04-24T21:02:00+08:00</published><updated>2011-04-24T21:02:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-24:/touring-xu-jia-hui</id><content type="html">&lt;p&gt;These photos taken while walking around the Xu Jia Hui area in Shanghai. The name Xu Jia Hui actually means the area where Xu Guangqi's descendants live. I also visited the tomb of Xu Guangqi today but forgot to take photos.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153842-240420111666.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153843-240420111667.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153844-240420111669.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153845-240420111670.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153846-240420111671.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153847-240420111672.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153848-240420111673.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153849-240420111674.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153850-240420111676.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153851-240420111677.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153852-240420111680.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153853-240420111681.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153854-240420111683.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/24/touring-xu-jia-hui/25153855-240420111684.jpg" width="500"&gt;&lt;/p&gt;</content><category term="travel"></category></entry><entry><title>Visiting Dave Liu in Taipei</title><link href="https://blog.melvinzhang.net/visiting-dave-liu-in-taipei" rel="alternate"></link><published>2011-04-20T22:17:17+08:00</published><updated>2011-04-20T22:17:17+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-20:/visiting-dave-liu-in-taipei</id><summary type="html">&lt;p&gt;In the morning, we took the HSR to Taipei to meet Dave Liu (Hon Wai's PhD advisor) for lunch. We met up at the Celestial Restaurant and had a very good lunch and chat with Prof Liu. After that we walked back to the HSR station, took the rail to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In the morning, we took the HSR to Taipei to meet Dave Liu (Hon Wai's PhD advisor) for lunch. We met up at the Celestial Restaurant and had a very good lunch and chat with Prof Liu. After that we walked back to the HSR station, took the rail to Taoyuan and then boarded the flight back to Shanghai.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956575-180420111621.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956576-180420111622.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956577-180420111623.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956578-180420111624.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956579-180420111625.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956580-180420111626.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956581-180420111627.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956582-180420111629.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956583-180420111630.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956584-180420111631.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956585-180420111632.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956586-180420111633.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956587-180420111634.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956588-180420111635.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/visiting-dave-liu-in-taipei/24956589-180420111636.jpg" width="500"&gt;&lt;/p&gt;</content><category term="travel"></category></entry><entry><title>AAAC 2011 Day Two</title><link href="https://blog.melvinzhang.net/aaac-2011-day-two" rel="alternate"></link><published>2011-04-20T21:59:25+08:00</published><updated>2011-04-20T21:59:25+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-20:/aaac-2011-day-two</id><summary type="html">&lt;p&gt;After the conference, we went around the campus town and bought some street
+food. I tried the local fried fermented tofu and it was nice. We brought
+our food into a café that specialize in coffee brewed from beans from a
+single place. I got the Indonesian Java coffee since …&lt;/p&gt;</summary><content type="html">&lt;p&gt;After the conference, we went around the campus town and bought some street
+food. I tried the local fried fermented tofu and it was nice. We brought
+our food into a café that specialize in coffee brewed from beans from a
+single place. I got the Indonesian Java coffee since I mostly develop on
+the Java platform.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955736-170420111600.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955737-170420111601.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955738-170420111602.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955739-170420111604.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955740-170420111605.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955741-170420111606.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955742-170420111607.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955743-170420111608.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955744-170420111610.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955745-170420111611.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955746-170420111612.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955747-170420111613.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955748-170420111614.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955749-170420111615.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955750-170420111618.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-two/24955751-170420111620.jpg" width="500"&gt;&lt;/p&gt;</content><category term="travel"></category></entry><entry><title>AAAC 2011 Day One</title><link href="https://blog.melvinzhang.net/aaac-2011-day-one" rel="alternate"></link><published>2011-04-20T21:48:25+08:00</published><updated>2011-04-20T21:48:25+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-20:/aaac-2011-day-one</id><summary type="html">&lt;p&gt;The keynote for the first day was given by Peter Eades from Australia. Peter's talk is IMHO the best talk in the whole conference. He gave a broad overview of the area of graph drawing and went into some depth for a number of problems he worked on.&lt;/p&gt;
+&lt;p&gt;In the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The keynote for the first day was given by Peter Eades from Australia. Peter's talk is IMHO the best talk in the whole conference. He gave a broad overview of the area of graph drawing and went into some depth for a number of problems he worked on.&lt;/p&gt;
+&lt;p&gt;In the afternoon, Hon Wai's presented our talk, which was a survey of algorithms for conserved gene cluster discovery. We spend the majority of the previous night working on the slides.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954784-160420111582.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954785-160420111583.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954787-160420111585.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954788-160420111586.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954789-160420111588.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954790-160420111589.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954791-160420111590.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954792-160420111591.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954793-160420111592.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954794-160420111593.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954795-160420111594.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954796-160420111595.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954797-160420111596.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/aaac-2011-day-one/24954798-160420111598.jpg" width="500"&gt;&lt;/p&gt;</content><category term="travel"></category></entry><entry><title>Day before AAAC 2011</title><link href="https://blog.melvinzhang.net/day-before-aaac-2011" rel="alternate"></link><published>2011-04-20T00:04:00+08:00</published><updated>2011-04-20T00:04:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2011-04-20:/day-before-aaac-2011</id><content type="html">&lt;p&gt;The 4th AAAC conference was held in Hsinchu, Taiwan. Hon Wai and I reached Hsinchu one day before the conference and we explored the NTHU campus and the &lt;br&gt;area around our hotel.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889967-150420111547.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889968-150420111550.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889969-150420111552.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889970-150420111553.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889971-150420111554.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889972-150420111560.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889973-150420111561.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889975-150420111563.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889977-150420111564.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889978-150420111565.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889979-150420111566.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889980-150420111568.jpg" width="500"&gt;
+&lt;img src="/images/2011/04/20/day-before-aaac-2011/24889981-150420111569.jpg" width="500"&gt;&lt;/p&gt;</content><category term="travel"></category></entry><entry><title>Cats use gravity, inertia, gecko-like process to lap up cream</title><link href="https://blog.melvinzhang.net/cats-use-gravity-inertia-gecko-like-process-to-lap-up-cream" rel="alternate"></link><published>2010-11-12T10:04:00+08:00</published><updated>2010-11-12T10:04:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-11-12:/cats-use-gravity-inertia-gecko-like-process-to-lap-up-cream</id><content type="html">&lt;p&gt;&lt;img src="/images/2010/11/12/cats-use-gravity-inertia-gecko-like-process-t/17358712-media_httpstaticarste_lejck.jpg" width="490"&gt;&lt;/p&gt;
+&lt;p&gt;via &lt;a href="http://arstechnica.com/science/news/2010/11/cats-use-gravity-inertia-gecko-like-process-to-lap-up-cream"&gt;arstechnica.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Unusual physics behind how cats drink water reported in the journal Science! Now that's my kind of science :)&lt;/p&gt;</content><category term="physics"></category></entry><entry><title>Video tips on graphic design from Before &amp; After magazine</title><link href="https://blog.melvinzhang.net/video-tips-on-graphic-design-from-before-after-magazine" rel="alternate"></link><published>2010-09-22T09:47:00+08:00</published><updated>2010-09-22T09:47:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-09-22:/video-tips-on-graphic-design-from-before-after-magazine</id><summary type="html">&lt;p&gt;&lt;img src="/images/2010/09/22/video-tips-on-graphic-design-from-before-afte/15316617-media_httpwwwbamagazi_xfiFq.gif" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;via &lt;a href="http://www.bamagazine.com/Articles.asp?ID=172"&gt;bamagazine.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Before &amp;amp; After magazine has a nice collection of informative videos clips that covers a number of graphic design tip with good examples. Makes me want to get hold of their book, "Before &amp;amp; After: How to Design Cool Stuff".&lt;/p&gt;
+&lt;p&gt;Graphic design has always fascinated me. Putting together simple …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/images/2010/09/22/video-tips-on-graphic-design-from-before-afte/15316617-media_httpwwwbamagazi_xfiFq.gif" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;via &lt;a href="http://www.bamagazine.com/Articles.asp?ID=172"&gt;bamagazine.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Before &amp;amp; After magazine has a nice collection of informative videos clips that covers a number of graphic design tip with good examples. Makes me want to get hold of their book, "Before &amp;amp; After: How to Design Cool Stuff".&lt;/p&gt;
+&lt;p&gt;Graphic design has always fascinated me. Putting together simple text and images to create a pleasing design is a great illustration of how the whole can be more than just the sum of its parts.&lt;/p&gt;</content><category term="design"></category></entry><entry><title>15 tips for finishing a game</title><link href="https://blog.melvinzhang.net/15-tips-for-finishing-a-game" rel="alternate"></link><published>2010-09-18T17:39:00+08:00</published><updated>2010-09-18T17:39:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-09-18:/15-tips-for-finishing-a-game</id><content type="html">&lt;p&gt;&lt;img src="/images/2010/09/18/15-tips-for-finishing-a-game/15171062-media_httpwwwderekyuc_ptewA.jpg" width="500"&gt;
+via &lt;a href="http://makegames.tumblr.com/post/1136623767/finishing-a-game"&gt;makegames.tumblr.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Many of the suggestions also make sense when applied to research projects.&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Dangerous Knowledge</title><link href="https://blog.melvinzhang.net/dangerous-knowledge" rel="alternate"></link><published>2010-09-14T16:23:55+08:00</published><updated>2010-09-14T16:23:55+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-09-14:/dangerous-knowledge</id><content type="html">&lt;p&gt;A 1.5hr documentary produced by the BBC that looks at the life of four brilliant mathematicians - Georg Cantor, Ludwig Boltzmann, Kurt Godel and Alan Turing.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://video.google.com/videoplay?docid=-5122859998068380459"&gt;Dangerous knowledge&lt;/a&gt;&lt;/p&gt;</content><category term="documentary"></category></entry><entry><title>The World's Worst Inventions</title><link href="https://blog.melvinzhang.net/the-worlds-worst-inventions" rel="alternate"></link><published>2010-07-28T10:12:53+08:00</published><updated>2010-07-28T10:12:53+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-07-28:/the-worlds-worst-inventions</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/EyRdnV1D-mI'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Paul Fenwick gave a hilarious talk on some of the worst inventions ever
+conceived at the recent OSCON 2010. Watch out for the sadly short lived
+Acoustic Kitty at 21:00. (more details at &lt;a href="http://en.wikipedia.org/wiki/Acoustic_Kitty"&gt;http://en.wikipedia.org/wiki/Acoustic_Kitty)&lt;/a&gt;)&lt;/p&gt;</content><category term="talk"></category></entry><entry><title>Pallas's Cat</title><link href="https://blog.melvinzhang.net/pallass-cat" rel="alternate"></link><published>2010-07-16T09:20:07+08:00</published><updated>2010-07-16T09:20:07+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-07-16:/pallass-cat</id><summary type="html">&lt;p&gt;&lt;img src="http://www.biolib.cz/IMG/GAL/10521.jpg" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;These little (big) guys are the oldest living relative of modern day cats. The
+&lt;a href="http://en.wikipedia.org/wiki/Pallas%27s_Cat"&gt;Pallas’s Cat&lt;/a&gt; is the oldest
+living species of a clade of felids that includes the modern genus &lt;strong&gt;Felis&lt;/strong&gt;.
+This feline, along with the extinct Martelli’s Cat, was probably one of the
+first two modern …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="http://www.biolib.cz/IMG/GAL/10521.jpg" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;These little (big) guys are the oldest living relative of modern day cats. The
+&lt;a href="http://en.wikipedia.org/wiki/Pallas%27s_Cat"&gt;Pallas’s Cat&lt;/a&gt; is the oldest
+living species of a clade of felids that includes the modern genus &lt;strong&gt;Felis&lt;/strong&gt;.
+This feline, along with the extinct Martelli’s Cat, was probably one of the
+first two modern cats to evolve from &lt;strong&gt;Pseudaelurus&lt;/strong&gt; approximately 12 million
+years ago.&lt;/p&gt;</content><category term="cat"></category></entry><entry><title>Loving You</title><link href="https://blog.melvinzhang.net/loving-you" rel="alternate"></link><published>2010-07-16T05:10:20+08:00</published><updated>2010-07-16T05:10:20+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-07-16:/loving-you</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/brr61iOMw0M'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;One of the best renditions of Loving You that I've heard. Her control of the whistle register is amazing!&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>First post on Posterous!</title><link href="https://blog.melvinzhang.net/first-post-on-posterous" rel="alternate"></link><published>2010-07-09T12:47:10+08:00</published><updated>2010-07-09T12:47:10+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-07-09:/first-post-on-posterous</id><content type="html">&lt;p&gt;I'm using this service as a one stop site for publishing on the web. The
+idea of posting via email appeals to me because it can be easily automated
+using command line tools. More about that later.&lt;/p&gt;</content><category term="blogging"></category></entry><entry><title>My favorite algorithm</title><link href="https://blog.melvinzhang.net/my-favorite-algorithm" rel="alternate"></link><published>2009-12-23T18:04:53+08:00</published><updated>2009-12-23T18:04:53+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/my-favorite-algorithm</id><summary type="html">&lt;p&gt;This post originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/my-favorite-algorithm.html"&gt;here&lt;/a&gt;
+on 11/01/09. This is the last in a series of reposts from the &lt;a href="http://nusschoolofcomputing.blogspot.com"&gt;NUS SoC
+blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many of the mechanical procedures we learned in primary and secondary school for calculating the result of certain mathematical operations are really just numerical algorithms. Usually we …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/my-favorite-algorithm.html"&gt;here&lt;/a&gt;
+on 11/01/09. This is the last in a series of reposts from the &lt;a href="http://nusschoolofcomputing.blogspot.com"&gt;NUS SoC
+blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many of the mechanical procedures we learned in primary and secondary school for calculating the result of certain mathematical operations are really just numerical algorithms. Usually we start with the &lt;a href="http://en.wikipedia.org/wiki/Elementary_arithmetic#Addition_algorithm"&gt;Addition algorithm&lt;/a&gt; for finding the sum of two numbers, this is typically followed by the &lt;a href="http://en.wikipedia.org/wiki/Elementary_arithmetic#Multiplication"&gt;Multiplication algorithm&lt;/a&gt;, which uses the Addition algorithm and digit shifting. Often we are just taught the steps, but not the reason why following them will give us the correct answer (correctness) or how the steps were developed in the first place (design).&lt;/p&gt;
+&lt;p&gt;The problem posted by Chris Henry on the &lt;a href="http://nusschoolofcomputing.blogspot.com/2008/10/noi-01-task-1_07.html"&gt;frequency of the mode&lt;/a&gt; reminded me of a similar problem, that of finding the majority in a collection of &lt;span class="math"&gt;\(n\)&lt;/span&gt; items. The majority is the item whose frequency is more than &lt;span class="math"&gt;\(n/2\)&lt;/span&gt;. This problem has a very clever but simple &lt;a href="http://www.cs.utexas.edu/%C2%A0moore/best-ideas/mjrty/index.html"&gt;solution&lt;/a&gt; that only needs only one pass over the data. It was listed by one of its inventors, &lt;a href="http://www.cs.utexas.edu/%C2%A0moore/"&gt;J Stother Moore&lt;/a&gt;, as one of his best ideas. It is also my favorite algorithm.&lt;/p&gt;
+&lt;p&gt;What is your favorite algorithm?&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="cs"></category></entry><entry><title>Using a personal wiki for notes and todos</title><link href="https://blog.melvinzhang.net/using-a-personal-wiki-for-notes-and-todos" rel="alternate"></link><published>2009-12-23T09:58:26+08:00</published><updated>2009-12-23T09:58:26+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/using-a-personal-wiki-for-notes-and-todos</id><summary type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/using-personal-wiki-for-notes-and-todos.html"&gt;here&lt;/a&gt;
+on 10/01/09.&lt;p&gt;Taking notes is an important part of learning something new. I
+find it extremely useful to jot down the important points while the material is
+still fresh in your head. I’ve experimented with a number of different note
+taking mediums in the …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/using-personal-wiki-for-notes-and-todos.html"&gt;here&lt;/a&gt;
+on 10/01/09.&lt;p&gt;Taking notes is an important part of learning something new. I
+find it extremely useful to jot down the important points while the material is
+still fresh in your head. I’ve experimented with a number of different note
+taking mediums in the past and I hope to share with you some of my
+insights.&lt;/p&gt;
+&lt;p&gt;Paper notes are easy to write (unless you have a bad handwriting, like me) and
+draw diagrams. However, organizing the notes afterwards can be a pain. This
+method works fairly well for module notes as you will usually read them in a
+sequential fashion and the notes can be written next to the slides. If I’m
+doing a module summary, which is longer, I will type out the notes.&lt;/p&gt;
+&lt;p&gt;Sometimes, you might need to do some quick research to solve a small problem,
+such as figuring out how to configure your smart phone to access the wifi
+network. After finding the answer on the web, I find it useful to type out a
+short howto to remind myself how is it done, in case I need to do it again in
+the future.&lt;/p&gt;
+&lt;p&gt;The trouble with the above methods is that notes are largely independent of
+one another and it is difficult to find all the information about a particular
+topic which may be stored in different files/pieces of paper. A more useful
+note taking system should allow one to create hyperlinks between different
+notes and to easily search for specific pieces of information.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2009/12/23/using-a-personal-wiki-for-notes-and-todos/11636311-media_httplh5ggphtcom_ggsum.jpg" title="A screenshot of TiddlyWiki from WikiMatrix.org" alt="A screenshot of TiddlyWiki from WikiMatrix.org"&gt;&lt;/p&gt;
+&lt;p&gt;My solution, as you might have guessed from the title, is to use a wiki
+engine. Unfortunately, most wiki software require a web server and database
+backend, which is too complicated for me. Realizing the need for a lightweight,
+portable wiki for personal use, Jeremy Ruston built
+&lt;a href="http://www.tiddlywiki.com/"&gt;TiddlyWiki&lt;/a&gt;, which is a single HTML file powered
+by JavaScript. The one I’m using for notes is a derivative known as
+&lt;a href="http://mptw.tiddlyspot.com/"&gt;MPTW&lt;/a&gt;, it has a cousin
+&lt;a href="http://monkeygtd.tiddlyspot.com/"&gt;MonkeyGTD&lt;/a&gt; which I use for managing projects
+and todos. You simply store the file on your local machine and open it in a
+browser. When you save your changes, the JavaScript writes the changes back to
+the file.&lt;/p&gt;</content><category term="notes"></category></entry><entry><title>Data driven programming assignments</title><link href="https://blog.melvinzhang.net/data-driven-programming-assignments" rel="alternate"></link><published>2009-12-23T09:48:06+08:00</published><updated>2009-12-23T09:48:06+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/data-driven-programming-assignments</id><summary type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/data-driven-programming-assigments.html"&gt;here&lt;/a&gt;
+on 09/01/09.&lt;p&gt;I attended a
+&lt;a href="https://mysoc.nus.edu.sg/%C2%A0cmsem/seminar_files/9655.txt"&gt;talk&lt;/a&gt; by &lt;a href="http://www.cs.cmu.edu/%C2%A0bryant/"&gt;Randall Bryant&lt;/a&gt; on Data Intensive Scalable
+Computing. His focus was on computer systems for processing large amounts of
+data.&lt;/p&gt;
+&lt;p&gt;I realized the importance of data driven computations earlier though my
+experience setting programming assignments. I think it is …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/data-driven-programming-assigments.html"&gt;here&lt;/a&gt;
+on 09/01/09.&lt;p&gt;I attended a
+&lt;a href="https://mysoc.nus.edu.sg/%C2%A0cmsem/seminar_files/9655.txt"&gt;talk&lt;/a&gt; by &lt;a href="http://www.cs.cmu.edu/%C2%A0bryant/"&gt;Randall Bryant&lt;/a&gt; on Data Intensive Scalable
+Computing. His focus was on computer systems for processing large amounts of
+data.&lt;/p&gt;
+&lt;p&gt;I realized the importance of data driven computations earlier though my
+experience setting programming assignments. I think it is important to have
+problems that are realistic; where you want to write the programs in order to
+see the results. Unfortunately, most of the time we are technique driven. We
+try to form a task around a specific method. However, most problems usually
+have a rather trivial solution, therefore we need to impose some unreasonable
+constraints or increase the size of the problem to some unbelievably large size
+in order to force the use of specific techniques.&lt;/p&gt;
+&lt;p&gt;I think the correct approach is to start from the data. There are large amount
+of interesting data that is available over the web, from
+&lt;a href="http://www.imdb.com/interfaces"&gt;movies&lt;/a&gt; to
+&lt;a href="http://www.tagora-project.eu/data/"&gt;tags&lt;/a&gt;. In the UNIX workshop I conducted
+for freshmen orientation 2008, I made use of the &lt;a href="http://www.comp.nus.edu.sg/%C2%A0rpnlpir/downloads/corpora/smsCorpus/"&gt;SMS corpus&lt;/a&gt;
+from the &lt;a href="http://wing.comp.nus.edu.sg/portal/"&gt;WING&lt;/a&gt; research group to
+motivate the use of UNIX pipes.&lt;/p&gt;
+&lt;p&gt;Dealing with large amounts of publicly available real world data gives rise to
+realistic computational problems where the effect of efficient algorithms
+become apparent. Computations that takes hours to run using a naive method can
+be completed in seconds using the correct approach. &lt;/p&gt;   &lt;/p&gt;</content><category term="teaching"></category></entry><entry><title>From Research to Teaching and Outreach</title><link href="https://blog.melvinzhang.net/from-research-to-teaching-and-outreach" rel="alternate"></link><published>2009-12-23T09:42:13+08:00</published><updated>2009-12-23T09:42:13+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/from-research-to-teaching-and-outreach</id><summary type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/from-research-to-teaching-and-outreach.html"&gt;here&lt;/a&gt;
+on 07/01/09.&lt;/p&gt;
+&lt;p&gt;In my previous post I talked about research in CS, one of the goals of research
+is to advance our understanding in a specific area. IMHO, there are at least
+three different "frontiers" of understanding: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;expertise of other researchers/practitioner in the area …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/from-research-to-teaching-and-outreach.html"&gt;here&lt;/a&gt;
+on 07/01/09.&lt;/p&gt;
+&lt;p&gt;In my previous post I talked about research in CS, one of the goals of research
+is to advance our understanding in a specific area. IMHO, there are at least
+three different "frontiers" of understanding: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;expertise of other researchers/practitioner in the area (the usual sense of research)&lt;/li&gt;
+&lt;li&gt;level of understanding attained by undergraduates in the area (teaching)&lt;/li&gt;
+&lt;li&gt;public or layman understanding/appreciation of the area (outreach)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both teaching and outreach are important to the development of a field because
+it expands the talent pool and imparts modes of thinking that are peculiar to
+the area. In recent years, there is push to promote &lt;a href="http://www.cs.cmu.edu/%C2%A0CompThink/"&gt;Computational
+Thinking&lt;/a&gt; as a fundamental skill, on
+equal terms with reading, writing, and arithmetic.&lt;/p&gt;
+&lt;p&gt;I’ve helped out at the NUS SoC open house booth for the last two years, and a
+recurring problem is that most folks have no clue as to what we do in
+Computing. I think the Europeans got it right when they used the term
+“Informatics” instead of “Computer Science”. As
+&lt;a href="http://www.cs.utexas.edu/users/EWD/"&gt;Dijkstra&lt;/a&gt; wrote in
+&lt;a href="http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD682.html"&gt;EWD682&lt;/a&gt;,
+“we don’t call painting ‘brush art’, nor surgery ‘knife science’ ”.
+Incidentally, Dijkstra is probably one of the earliest bloggers, he started to
+send his writings to colleagues by regular mail, before the advent of the
+Internet. Now, you can view his writings at the &lt;a href="http://www.cs.utexas.edu/users/EWD/"&gt;EWD
+Archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I prefer the term “Information Engineering”, which puts the emphasis on the
+object of our study, information, and away from the tool we use, the computer.
+Most people tend to have a better sense of what is engineering, it is about
+building useful things. In computing, we design algorithms and build software
+to manage/process information.&lt;/p&gt;
+&lt;p&gt;Do you have some simple way to describe what we do in Computing to the layman?
+Do share your ideas/suggestions in the comments.   &lt;/p&gt;</content><category term="outreach"></category></entry><entry><title>Relevance of research skills</title><link href="https://blog.melvinzhang.net/relevance-of-research-skills" rel="alternate"></link><published>2009-12-23T09:37:42+08:00</published><updated>2009-12-23T09:37:42+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/relevance-of-research-skills</id><summary type="html">&lt;p&gt;I was asked to give a career talk to graduating secondary school students for
+my alma mater, Swiss Cottage Secondary School. I offered to talk about careers
+in IT but was told that it was already taken. I suggested maybe I can talk
+about a career in research and development …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I was asked to give a career talk to graduating secondary school students for
+my alma mater, Swiss Cottage Secondary School. I offered to talk about careers
+in IT but was told that it was already taken. I suggested maybe I can talk
+about a career in research and development instead.&lt;/p&gt;
+&lt;p&gt;In preparation for this talk, I’d thought I will revise a &lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/primer-on-cs-research-and-relevance-of.html"&gt;blog
+post&lt;/a&gt;
+I wrote for the &lt;a href="http://nusschoolofcomputing.blogspot.com"&gt;NUS SoC blog&lt;/a&gt;
+regarding the relevance of research skill.&lt;/p&gt;
+&lt;p&gt;In a nutshell, computer science research is a systematic study of a specific
+problem to derive new methods and design of computer systems to solve real
+world problems.&lt;/p&gt;
+&lt;p&gt;Most of us have to perform various research related activities at one point or another, whether it is working on an project or doing a literature survey for an essay we have to write. In general, a research project consists of the following components: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;identify and formulate the problem to be solved (IMHO, the most important step)&lt;/li&gt;
+&lt;li&gt;review of existing work on related problems (to avoid reinventing the wheel)&lt;/li&gt;
+&lt;li&gt;proposal of a new solution (not as hard as it sounds, often a refinement of an existing solutions or a combination of various other solutions)&lt;/li&gt;
+&lt;li&gt;show that your proposed solution indeed solves the problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Almost all serious projects involved the above steps. That is why research
+skills such as problem formulation, review of related work and design of
+experiments to support your claims are important. In particular, formulating
+the right problem is often the key step towards a solution. To quote the words
+of &lt;a href="http://en.wikipedia.org/wiki/Jiddu_Krishnamurti"&gt;Jiddu Krishnamurti&lt;/a&gt;, an
+Indian philosopher, “If we can really understand the problem, the answer will
+come out of it, because the answer is not separate from the problem”.&lt;/p&gt;</content><category term="research"></category></entry><entry><title>Bowling, Badminton and Buffet at Swiss Past Vs Present Games Day</title><link href="https://blog.melvinzhang.net/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day" rel="alternate"></link><published>2009-09-15T16:49:59+08:00</published><updated>2009-09-15T16:49:59+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-09-15:/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day</id><summary type="html">&lt;p&gt;The second annual Swiss Cottage Past vs Present Games Day was held on the 5th
+September. Initially, I did not feel like attending the event as I could not
+get anyone from my class to come. The day before the games day, I received an
+SMS from William (one of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The second annual Swiss Cottage Past vs Present Games Day was held on the 5th
+September. Initially, I did not feel like attending the event as I could not
+get anyone from my class to come. The day before the games day, I received an
+SMS from William (one of alumni committee members from class of 75) asking all
+committee members to come down and support the games. I realized I shouldn’t
+avoid the event just because no one else from my class is going, I should just
+go down and get to know the other alumni and current students.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636325-media_httpmelvinzhang_tDDut.png" title="Bowling@CDANS" alt="Bowling@CDANS"&gt;
+&lt;img src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636326-media_httpmelvinzhang_HpcsG.png" title="Lane where I was playing" alt="Lane where I was playing"&gt;&lt;/p&gt;
+&lt;p&gt;The bowling competition was held at CDANS, opposite Swiss Cottage. I was
+“coerced” into joining the game and was assigned to play alongside two new
+alumni. I figured they must be from Swiss Bowlers as they had their own
+carrying bags and bowling balls. We played a total of three games and my scores
+were: 104, 77, 83.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636327-media_httpmelvinzhang_CDCAE.png" title="Badminton@Swiss Hall" alt="Badminton@Swiss Hall"&gt;
+&lt;img src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636331-media_httpmelvinzhang_jeinC.png" title="Floorball@Quadrangle" alt="Floorball@Quadrangle"&gt;&lt;/p&gt;
+&lt;p&gt;I had lunch with a group of alumni at CDANS before walking back to Swiss
+Cottage for the afternoon games. Due to lack of players, Annie and I joined in
+the badminton game which was held in the school hall. Since both of us are not
+familiar with the game, needless to say we were completely trashed by the Swiss
+girls from the badminton club.&lt;/p&gt;
+&lt;p&gt;A number of other games where held around Swiss, including basketball,
+floorball and soccer. In the end, the alumni won three out of the five games
+that were played that day.&lt;/p&gt;
+&lt;p&gt;In retrospect, I am glad that I decided to go down for the games day as I
+really enjoyed myself playing the games. I also got to meet up with Mrs Ellie
+Koh and Mr Saiffudin, two teachers from when I was at Swiss but have since
+retired.&lt;/p&gt;</content><category term="scss"></category></entry><entry><title>Blogging from the command line</title><link href="https://blog.melvinzhang.net/blogging-from-the-command-line" rel="alternate"></link><published>2009-04-04T01:00:17+08:00</published><updated>2009-04-04T01:00:17+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-04-04:/blogging-from-the-command-line</id><summary type="html">&lt;p&gt;This post is composed in the text editor &lt;a href="http://www.vim.org"&gt;Vim&lt;/a&gt;, using the &lt;a href="http://www.latex-project.org/"&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/a&gt; format and converted to HTML using &lt;a href="http://hevea.inria.fr/"&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A&lt;/a&gt;. The HTML source is posted on this blog using the &lt;a href="http://srackham.wordpress.com/blogpost1/"&gt;blogpost&lt;/a&gt; command line tool.&lt;p&gt;Using such a pipeline, there are several ways to …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post is composed in the text editor &lt;a href="http://www.vim.org"&gt;Vim&lt;/a&gt;, using the &lt;a href="http://www.latex-project.org/"&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/a&gt; format and converted to HTML using &lt;a href="http://hevea.inria.fr/"&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A&lt;/a&gt;. The HTML source is posted on this blog using the &lt;a href="http://srackham.wordpress.com/blogpost1/"&gt;blogpost&lt;/a&gt; command line tool.&lt;p&gt;Using such a pipeline, there are several ways to produce mathematical equations. Either using images produced by H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A, default H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A rendering or using the L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X plugin installed in WordPress. The following compares the result produced by each of these three methods. &lt;/p&gt;
+&lt;h3&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A image&lt;/h3&gt;
+&lt;p&gt;&lt;img src="/images/2009/04/04/blogging-from-the-command-line/11636335-media_httpmelvinzhang_lGJyA.png" width="99"&gt;&lt;/p&gt;
+&lt;h3&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A translation&lt;/h3&gt;
+&lt;p&gt;∑&lt;sub&gt;&lt;i&gt;i&lt;/i&gt;=1&lt;/sub&gt;&lt;i&gt;&lt;sup&gt;n&lt;/sup&gt; i&lt;/i&gt; = &lt;i&gt;n&lt;/i&gt;(&lt;i&gt;n&lt;/i&gt;+1)/2&lt;/p&gt;
+&lt;h3&gt;WordPress image&lt;/h3&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\sum_{i=1}^n i = \frac{n(n+1)}{2}\)&lt;/span&gt;&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="math"></category></entry><entry><title>Asymptote: A language for vector graphics</title><link href="https://blog.melvinzhang.net/asymptote-a-language-for-vector-graphics" rel="alternate"></link><published>2009-04-02T05:56:50+08:00</published><updated>2009-04-02T05:56:50+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-04-02:/asymptote-a-language-for-vector-graphics</id><summary type="html">&lt;p&gt;&lt;a href="http://asymptote.sourceforge.net/"&gt;Asymptote&lt;/a&gt; is a language for describing
+vector graphics, with a syntax that is similar to C++ but more mathematically
+oriented. For example, pairs and triples are directly represented in the
+language as (x,y) and (x,y,z) respectively.&lt;/p&gt;
+&lt;p&gt;Recently, I wanted to create a simple illustration for a programming …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://asymptote.sourceforge.net/"&gt;Asymptote&lt;/a&gt; is a language for describing
+vector graphics, with a syntax that is similar to C++ but more mathematically
+oriented. For example, pairs and triples are directly represented in the
+language as (x,y) and (x,y,z) respectively.&lt;/p&gt;
+&lt;p&gt;Recently, I wanted to create a simple illustration for a programming task on stacks. Using Asymptote, I created the following image:&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2009/04/02/asymptote-a-language-for-vector-graphics/11636347-media_httpmelvinzhang_uJgwh.png" width="480"&gt;&lt;/p&gt;
+&lt;p&gt;A structured image is similar to a structured program because it can be
+decomposed into simpler elements that are repeated with slight differences,
+analogous to the way functions are called with different parameters. In my
+illustration, the basic component is a labeled box, i.e. a square with a label.
+Several boxes are arranged vertically to form a stack. Three stacks are
+arranged side-by-side to illustrate the given input and expected output.&lt;/p&gt;
+&lt;p&gt;Asymptote code of the above illustration is shown below:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;picture labelbox(string s, pair corner, int width=1, int height=1) {
+    picture pict;
+    path box = corner--(corner.x+width,corner.y)--
+                   (corner.x+width,corner.y+height)--
+                   (corner.x,corner.y+height)--cycle;
+    draw(pict, box);
+    label(pict, s, corner, NE);
+    return pict;
+}
+
+picture stack(string s, int[] v = {}) {
+    picture pict;
+    label(pict, s, (0.5,0), S);
+    draw(pict, (0,0)--(1,0));
+    for (int i = 0; i &lt;span class="nt"&gt;&amp;lt;/pre&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="misc"></category></entry><entry><title>Writing under pressure</title><link href="https://blog.melvinzhang.net/writing-under-pressure" rel="alternate"></link><published>2009-01-25T13:53:29+08:00</published><updated>2009-01-25T13:53:29+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-01-25:/writing-under-pressure</id><summary type="html">&lt;p&gt;Guest blogging for the NUS SoC blog has taught me that it is important to set
+some goals for blogging. Having only one week to write made me think hard about
+the topics I wanted to cover in the limited time.  I contributed a total of
+five posts, which you …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Guest blogging for the NUS SoC blog has taught me that it is important to set
+some goals for blogging. Having only one week to write made me think hard about
+the topics I wanted to cover in the limited time.  I contributed a total of
+five posts, which you can find &lt;a href="http://nusschoolofcomputing.blogspot.com/search/label/Melvin%20Zhang"&gt;here&lt;/a&gt;.
+I'm not sure what will happen to the NUS SoC blog in the future, so I'm
+considering moving my posts to this blog for safe keeping.&lt;/p&gt;
+&lt;p&gt;The ability to write well is critical to doing research, because the best ideas
+are useless unless they can be communicated to the larger community. It is not
+just about describing your idea but also providing the right amount of
+background information and motivation to the reader so that he/she can
+appreciate its usefulness.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Guest blogging for NUS SoC blog</title><link href="https://blog.melvinzhang.net/guest-blogging-for-nus-soc-blog" rel="alternate"></link><published>2009-01-06T16:54:24+08:00</published><updated>2009-01-06T16:54:24+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-01-06:/guest-blogging-for-nus-soc-blog</id><summary type="html">&lt;p&gt;I'm guest blogging for the &lt;a href="http://nusschoolofcomputing.blogspot.com/"&gt;NUS SoC blog&lt;/a&gt; this week. Btw, I really enjoyed Bruce's &lt;a href="http://nusschoolofcomputing.blogspot.com/search/label/Bruce%20Chia"&gt;postings on gaming&lt;/a&gt;, do check it out. On a related note, there is another interesting blog by an NUS SoC student at &lt;a href="http://life-of-a-nus-computing-student.blogspot.com/"&gt;Life of a NUS Computing Student&lt;/a&gt;, some of the observations are rather funny …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'm guest blogging for the &lt;a href="http://nusschoolofcomputing.blogspot.com/"&gt;NUS SoC blog&lt;/a&gt; this week. Btw, I really enjoyed Bruce's &lt;a href="http://nusschoolofcomputing.blogspot.com/search/label/Bruce%20Chia"&gt;postings on gaming&lt;/a&gt;, do check it out. On a related note, there is another interesting blog by an NUS SoC student at &lt;a href="http://life-of-a-nus-computing-student.blogspot.com/"&gt;Life of a NUS Computing Student&lt;/a&gt;, some of the observations are rather funny and insightful.&lt;/p&gt;</content><category term="soc"></category></entry><entry><title>I'm noticing a trend</title><link href="https://blog.melvinzhang.net/im-noticing-a-trend" rel="alternate"></link><published>2008-12-17T13:55:12+08:00</published><updated>2008-12-17T13:55:12+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-12-17:/im-noticing-a-trend</id><summary type="html">&lt;p&gt;Whenever I'm experimenting with web based software, I will usually try to
+install it on a server. After some time, I will get tired of maintaining the
+system and start looking for free hosting services on the web. This happened to
+the blogging software I've been using. I started with …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Whenever I'm experimenting with web based software, I will usually try to
+install it on a server. After some time, I will get tired of maintaining the
+system and start looking for free hosting services on the web. This happened to
+the blogging software I've been using. I started with a blog plugin for
+&lt;a href="http://www.dokuwiki.org/"&gt;dokuwiki&lt;/a&gt;, but the  number of other plugins I had to
+install just to get some basic blogging functionalities was crazy.&lt;/p&gt;
+&lt;p&gt;WordPress seems like a nice platform, it is open source and there is a easy way
+to export the posts from the system so that you are not locked in. Over the
+next few days I will be migrating my old posts over here.&lt;/p&gt;</content><category term="software"></category></entry><entry><title>Leaving Paris soon</title><link href="https://blog.melvinzhang.net/leaving-paris-soon" rel="alternate"></link><published>2008-10-18T14:05:00+08:00</published><updated>2008-10-18T14:05:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-10-18:/leaving-paris-soon</id><summary type="html">&lt;p&gt;&lt;img src="/images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675153-D1_02_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675147-D2_01_conf.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675141-D2_02_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675133-D2_03_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675127-D2_04_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675120-D2_05_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675110-D2_06_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675100-D2_07_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675094-D2_08_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675085-D2_09_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675080-D2_10_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675076-D2_11_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675069-D2_12_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675059-D4_tower1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675056-D4_tower2.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675049-D4_tower3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675043-D4_tower4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675036-D5_louvre1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675024-D5_louvre3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675019-D5_louvre4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675016-D5_louvre5.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675009-D5_louvre6.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674995-D5_louvre8.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674988-D5_louvre9.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675004-D5_louvre7.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674984-D5_street1.jpg" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;My trip to Paris for the RECOMB Comparative Genomics workshop is coming to an
+end. It has been a great week.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://igm.univ-mlv.fr/RCG08/"&gt;RECOMB Comparative Genomics Workshop&lt;/a&gt; was
+held from Monday to Wednesday. My talk was on the second day, it went smoothly
+but ended a little early. There was only …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="/images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675153-D1_02_room.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675147-D2_01_conf.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675141-D2_02_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675133-D2_03_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675127-D2_04_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675120-D2_05_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675110-D2_06_talk.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675100-D2_07_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675094-D2_08_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675085-D2_09_pan.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675080-D2_10_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675076-D2_11_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675069-D2_12_park.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675059-D4_tower1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675056-D4_tower2.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675049-D4_tower3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675043-D4_tower4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675036-D5_louvre1.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675024-D5_louvre3.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675019-D5_louvre4.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675016-D5_louvre5.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675009-D5_louvre6.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674995-D5_louvre8.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674988-D5_louvre9.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11675004-D5_louvre7.jpg" width="500"&gt;
+&lt;img src="/images/2008/10/18/leaving-paris-soon/11674984-D5_street1.jpg" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;My trip to Paris for the RECOMB Comparative Genomics workshop is coming to an
+end. It has been a great week.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://igm.univ-mlv.fr/RCG08/"&gt;RECOMB Comparative Genomics Workshop&lt;/a&gt; was
+held from Monday to Wednesday. My talk was on the second day, it went smoothly
+but ended a little early. There was only one question, but after the talk a
+couple of people came and gave me some suggestions. On the same day as my talk,
+there was a dinner cruise on the river Seine and I got to meet some other folks
+during the dinner. All in all, it was a great conference as the topics
+discussed are closely related to my own work.&lt;/p&gt;
+&lt;p&gt;The only problem I encountered was being unable to use my N82 to take
+pictures. Meddling with the settings and doing a reset did not help, in the end
+I had to buy 2 disposable cameras.&lt;/p&gt;
+&lt;p&gt;After the conference ended on Wednesday, I visited Le Panthéon. The most
+interesting part is the underground crypt, which houses the remains of
+distinguished citizens of France, including Marie Curie. Given the number of
+CRPG games with crypt levels, I was half expecting skeletons and zombies to
+jump out at me. After that, I went to Jardin du Luxembourg, the largest park in
+Paris. It was a refreshing change from the concrete jungle of the city.&lt;/p&gt;
+&lt;p&gt;The first half of Thursday was spent visiting Prof Frej Tekaia. We had a
+good discussion on some research problems of mutual interest. After that, I
+went to see the Eiffel Tower, it looks a lot bigger up close as compared to
+when I saw it from afar during the dinner cruise.&lt;/p&gt;
+&lt;p&gt;Finally on Friday, I visited the Louvre Museum and saw the Mona Lisa, among
+many other sculptors and paintings. Personally, I don't quite understand why
+the Mona Lisa is so famous. The last place I visited was the La Grande Galerie
+de l'Evolution (roughly translated as Grand Gallery of Evolution),I found it
+more fascinating than the Louvre.&lt;/p&gt;
+&lt;p&gt;Hopefully, the pictures from the disposable camera can be developed. Then
+I'll scan them and add them to this post.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>IOI 2008 is over</title><link href="https://blog.melvinzhang.net/ioi-2008-is-over" rel="alternate"></link><published>2008-08-24T14:37:54+08:00</published><updated>2008-08-24T14:37:54+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-08-24:/ioi-2008-is-over</id><summary type="html">&lt;p&gt;IOI has finally ended but the Singapore team is staying one additional day
+because the direct flight from Egypt to Singapore via SIA leaves on Sunday. I'm
+using this time to update my blog but unfortunately I left my micro USB cable
+in my room so I'm unable to upload …&lt;/p&gt;</summary><content type="html">&lt;p&gt;IOI has finally ended but the Singapore team is staying one additional day
+because the direct flight from Egypt to Singapore via SIA leaves on Sunday. I'm
+using this time to update my blog but unfortunately I left my micro USB cable
+in my room so I'm unable to upload any photos from my N82, will have to do that
+after I get back to Singapore.&lt;/p&gt;
+&lt;p&gt;This year, the contestants won 1 silver and 3 bronze medals, which is an improvement over the 1 silver and 2 bronze medals from last year. More importantly, everyone got a medal. Singapore has taken part in IOI since 1992 and the only other years which we achieved this was in 1997 (1S 3B) and 2001 (2G 2S). A detailed listing of our achievements in IOI is available from the NOI website, &lt;a href="http://www.comp.nus.edu.sg/%7Enoi/infonoi.html"&gt;http://www.comp.nus.edu.sg/~noi/infonoi.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the fourth year I am attending IOI and it is really a nice feeling
+seeing the familiar faces from the various country delegations. During some of
+our discussions, we toyed around with the idea of hosting IOI in Singapore by
+2015. My dream of hosting an ACM ICPC regional in Singapore was realized in
+December 2007, perhaps one day we will also host the IOI.&lt;/p&gt;
+&lt;p&gt;Update 27th Aug: Photos are available &lt;a href="http://algorithmics.comp.nus.edu.sg/wiki/gallery/egypt_2008"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Update 17th Oct: Result in 1997 should be 1S 3B&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Software is Hard</title><link href="https://blog.melvinzhang.net/software-is-hard" rel="alternate"></link><published>2008-05-16T07:19:28+08:00</published><updated>2008-05-16T07:19:28+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-05-16:/software-is-hard</id><summary type="html">&lt;p&gt;I've been revisiting some code I wrote a couple of months ago in order to
+implement some new ideas. It is amazing how much information you need to keep
+in your head to even start working on a modification of existing code. It took
+me a while to get used …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've been revisiting some code I wrote a couple of months ago in order to
+implement some new ideas. It is amazing how much information you need to keep
+in your head to even start working on a modification of existing code. It took
+me a while to get used to the code again, thankfully I had written some simple
+comments.&lt;/p&gt;
+&lt;p&gt;At the point of writing the program, writing comments seems like a waste of
+time because all the information is already at your fingertips, but if you try
+to work on the program again after a while, you will find the comments
+invaluable.&lt;/p&gt;
+&lt;p&gt;There are other reasons why writing software is so difficult, see this &lt;a href="http://reddit.com/r/programming/info/6j1mf/comments/c03zf02"&gt;Reddit comment&lt;/a&gt;.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>That's What Friends Are For</title><link href="https://blog.melvinzhang.net/thats-what-friends-are-for" rel="alternate"></link><published>2008-05-09T05:55:00+08:00</published><updated>2008-05-09T05:55:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-05-09:/thats-what-friends-are-for</id><summary type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/EtGF2m102Wg'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And I never thought I'd feel this way&lt;/p&gt;
+&lt;p&gt;And as far as I'm concerned&lt;/p&gt;
+&lt;p&gt;I'm glad I got the chance to say&lt;/p&gt;
+&lt;p&gt;That I do believe I love you&lt;/p&gt;
+&lt;p&gt;And if I should ever go away&lt;/p&gt;
+&lt;p&gt;Well then close your eyes and try&lt;/p&gt;
+&lt;p&gt;To feel the way we do today …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/EtGF2m102Wg'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And I never thought I'd feel this way&lt;/p&gt;
+&lt;p&gt;And as far as I'm concerned&lt;/p&gt;
+&lt;p&gt;I'm glad I got the chance to say&lt;/p&gt;
+&lt;p&gt;That I do believe I love you&lt;/p&gt;
+&lt;p&gt;And if I should ever go away&lt;/p&gt;
+&lt;p&gt;Well then close your eyes and try&lt;/p&gt;
+&lt;p&gt;To feel the way we do today&lt;/p&gt;
+&lt;p&gt;And then if you can remember&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chorus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Keep smiling, keep shining&lt;/p&gt;
+&lt;p&gt;Knowing you can always count on me, for sure&lt;/p&gt;
+&lt;p&gt;That's what friends are for&lt;/p&gt;
+&lt;p&gt;For/In good times and/in bad times&lt;/p&gt;
+&lt;p&gt;I'll be on your side forever more&lt;/p&gt;
+&lt;p&gt;That's what friends are for&lt;/p&gt;
+&lt;p&gt;Well you came and opened me&lt;/p&gt;
+&lt;p&gt;And now there's so much more I see&lt;/p&gt;
+&lt;p&gt;And so by the way I thank you&lt;/p&gt;
+&lt;p&gt;And then for the times when we're apart&lt;/p&gt;
+&lt;p&gt;Well then close your eyes and know&lt;/p&gt;
+&lt;p&gt;These words are coming from my heart&lt;/p&gt;
+&lt;p&gt;And then if you can remember&lt;/p&gt;
+&lt;p&gt;Repeat chorus three times&lt;/p&gt;</content><category term="music"></category></entry><entry><title>Googling yourself</title><link href="https://blog.melvinzhang.net/googling-yourself" rel="alternate"></link><published>2008-04-14T01:47:29+08:00</published><updated>2008-04-14T01:47:29+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-04-14:/googling-yourself</id><summary type="html">&lt;p&gt;At the NOI awards ceremony yesterday, I met up with Mr Gi Soong Chee, a
+Computing teacher at Dunman High, whom I met during IOI 2005. It was nice to
+see him again and catch up on what we've been up to in the last couple of
+years. At the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;At the NOI awards ceremony yesterday, I met up with Mr Gi Soong Chee, a
+Computing teacher at Dunman High, whom I met during IOI 2005. It was nice to
+see him again and catch up on what we've been up to in the last couple of
+years. At the end of our conversation, he asked for my email address. I wrote
+it on a piece of paper and jokingly added that he could have googled me for the
+information. I assumed that since I have this website, it will be indexed by
+Google and people who want to contact me can find my information here.&lt;/p&gt;
+&lt;p&gt;Actually, I've never actually tried to google for my own info so I'm not sure
+if it would actually work. To test it out, I tried the following queries in
+Google today.&lt;/p&gt;
+&lt;p&gt;Query: melvin&lt;/p&gt;
+&lt;p&gt;Result (rank):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.comp.nus.edu.sg/%7Emelvin/"&gt;http://www.comp.nus.edu.sg/~melvin/&lt;/a&gt; (9)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Query: melvin nus&lt;/p&gt;
+&lt;p&gt;Result (rank):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.comp.nus.edu.sg/%7Emelvin/"&gt;http://www.comp.nus.edu.sg/~melvin/&lt;/a&gt; (1)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.comp.nus.edu.sg/%7Enoi/infonoi.html"&gt;http://www.comp.nus.edu.sg/~noi/infonoi.html&lt;/a&gt; (2)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://algorithmics.comp.nus.edu.sg/wiki/"&gt;http://algorithmics.comp.nus.edu.sg/wiki/&lt;/a&gt; (3)&lt;/td&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Query: melvin zhang
+Result (rank):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://algorithmics.comp.nus.edu.sg/wiki/"&gt;http://algorithmics.comp.nus.edu.sg/wiki/&lt;/a&gt; (1)&lt;/li&gt;
+&lt;li&gt;CS1102 Tut 10 Summary (2)&lt;/li&gt;
+&lt;li&gt;My talk for the NUS ACM chapter (4,5)&lt;/td&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The results were somewhat surprising. First of all, I was surprised to be even
+on the first page of Google for “melvin” alone. The other interesting result,
+was how much I'm associated with NUS. A search for “melvin nus” gave more
+relevant pages as compared to a search for “melvin zhang”.&lt;/p&gt;
+&lt;p&gt;Have you tried to Google for you own info and were you surprised by what you found?&lt;/p&gt;</content><category term="search"></category></entry><entry><title>Computational Biology</title><link href="https://blog.melvinzhang.net/computational-biology" rel="alternate"></link><published>2008-04-13T13:51:00+08:00</published><updated>2008-04-13T13:51:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-04-13:/computational-biology</id><summary type="html">&lt;p&gt;Terry Nguyen and Justin suggested that I write about Computational Biology. So here it is :-)&lt;/p&gt;
+&lt;p&gt;Whenever someone asks me what is my major, I'll say that I am part Computer Science and part Computational Biology since my undergraduate was in Computer Science while my HYP and current work is in …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Terry Nguyen and Justin suggested that I write about Computational Biology. So here it is :-)&lt;/p&gt;
+&lt;p&gt;Whenever someone asks me what is my major, I'll say that I am part Computer Science and part Computational Biology since my undergraduate was in Computer Science while my HYP and current work is in Computational Biology. I have to confess that I'm not a real biologist and my biology knowledge is fairly limited, but I have a healthy curiosity in new developments in biology. The diversity and complexity of life has always fascinated me.&lt;/p&gt;
+&lt;p&gt;Computational biology is the application of computational techniques for tackling problems in biology. The problems can be broadly classified into two types. The first is to assist in the design/interpretation/analysis of high throughput experiments, such as micro arrays, tandem mass spectroscopy and DNA sequencing machines. The second is to discover meaningful patterns from biological data to improve our understanding of the underlying biological mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2008/04/13/computational-biology/11636390-media_httpnbcrsdscedu_oCxpb.gif" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;My own work in the comparative genomics of gene order is from the second category. The data I am considering is a set of gene orders, where a gene order is the sequence of genes that makes up the genome of a species. Although many species share a large number of genes, the arrangement of these genes are different due to large scale rearrangement events (see Figure 1 above) that has the effect of shuffling the genes around.&lt;/p&gt;</content><category term="research"></category></entry><entry><title>Music from YouTube</title><link href="https://blog.melvinzhang.net/music-from-youtube" rel="alternate"></link><published>2008-02-10T08:26:00+08:00</published><updated>2008-02-10T08:26:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-02-10:/music-from-youtube</id><content type="html">&lt;p&gt;These days I've been using YouTube as a music player. Enjoy :)&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/kEoEyHNhXmc'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The singer is &lt;a href="http://oliviaong.com/"&gt;Olivia Ong&lt;/a&gt;, who is Singaporean. Thanks to Elizabeth for introducing this singer to me.&lt;/p&gt;</content><category term="music"></category></entry><entry><title>Websites</title><link href="https://blog.melvinzhang.net/websites" rel="alternate"></link><published>2008-01-22T15:38:00+08:00</published><updated>2008-01-22T15:38:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-01-22:/websites</id><summary type="html">&lt;p&gt;My first website was started in 1999 after my 'A' levels but before I was enlisted. It was a very simple web site written by hand using HTML and CSS. The purpose was to learn HTML but it also served as a page which I would put up mini reviews …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My first website was started in 1999 after my 'A' levels but before I was enlisted. It was a very simple web site written by hand using HTML and CSS. The purpose was to learn HTML but it also served as a page which I would put up mini reviews of freeware games/applications. The main page also contains a number of dated entries to indicate when the site was updated and some snippets of what I was doing in real life. The last entry which was dated August 9, 2000 was posted on National Day, see below.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2008/01/22/websites/11636394-media_httpmelvinzhang_nxEki.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;The next period in my web authoring experience was when I entered NUS in 2002. All SoC students are given a web site at &lt;a href="http://www.comp.nus.edu.sg/%7Eunix_user_name"&gt;http://www.comp.nus.edu.sg/~unix_user_name&lt;/a&gt;. It was far easier to setup a webpage than on my previous hosted service as I could upload the files to the server directly. I mainly used it to host a number of files, such as presentation slides etc.&lt;/p&gt;
+&lt;p&gt;In 2005, I started a server for ACM/IOI training. The server hosted the Mooshak contest management system and a DokuWiki based website for the ACM/IOI community in NUS. The site grew over the years and over time I starting using the site to document my HYP project and to create web pages for courses I was teaching. After a while, the server began to show signs of instability. Intending to avoid the hassle of managing a physical server, I requested for a Solaris Zone account from the school, which is now the hosting the current algorithmics.comp.nus.edu.sg site.&lt;/p&gt;</content><category term="web"></category></entry><entry><title>SRG Day 2</title><link href="https://blog.melvinzhang.net/srg-day-2" rel="alternate"></link><published>2008-01-13T02:50:00+08:00</published><updated>2008-01-13T02:50:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-01-13:/srg-day-2</id><summary type="html">&lt;p&gt;The three events held on the morning of the second day of the Singapore Robotic Games are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RC Sumo&lt;/li&gt;
+&lt;li&gt;Micromouse&lt;/li&gt;
+&lt;li&gt;Robot Soccer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;RC Sumo&lt;/h3&gt;
+&lt;p&gt;RC Sumo is almost the same as the autonomous sumo content, except that the robots are controlled by human handlers. Essentially two robots face off on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The three events held on the morning of the second day of the Singapore Robotic Games are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RC Sumo&lt;/li&gt;
+&lt;li&gt;Micromouse&lt;/li&gt;
+&lt;li&gt;Robot Soccer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;RC Sumo&lt;/h3&gt;
+&lt;p&gt;RC Sumo is almost the same as the autonomous sumo content, except that the robots are controlled by human handlers. Essentially two robots face off on a circular platform and the first robot to be pushed off the platform loses. The inclusion of the handlers makes the matches more exciting as sometimes the autonomous matches simply becomes a straight forward pushing contest. The handlers are typically less aggressive and tend to move about the platform more carefully. SRG's sumo competition is modeled after a contest in Japan, below is a video of the Japanese version.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/7OWopN7Wysg'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Micromouse&lt;/h3&gt;
+&lt;p&gt;Watching the micromouse competition brings back some fond memories of my secondary school days. I was in the Computer Club back then and we had a micromouse group. I was never directly involved with the micromouse teams, but watching an autonomous robot navigate a maze inspired me to think about how problem solving skills can be incorporated into a robot.&lt;/p&gt;
+&lt;h3&gt;Robot Soccer&lt;/h3&gt;
+&lt;p&gt;The highlight of the morning for me was the Robot Soccer Competition. It consists of two competing teams with 6 small cuboid robots each. The objective was to score but pushing a ping pong ball into the opposing team's goal, must like real soccer.The actions of the robots are controlled by a separate computer which is directly connected to a video feed of the top view of the entire playing area. An interesting trick was used to solve the problem of identification and localization of the robots. Each robot has a special colored logo on its top and this is analyzed by the image processing software on the controlling computer.&lt;/p&gt;
+&lt;p&gt;This event is no doubt one of the more difficult ones, as only four teams were registered. The strengths of the teams also differs greatly, for the match I watched the final score was 10:0.&lt;/p&gt;
+&lt;h3&gt;Round up&lt;/h3&gt;
+&lt;p&gt;I didn't have time on Wednesday to attend the last day of the competition, but overall I felt that the SRG was a successful event in that it was able to attract a large number of teams from a variety of institutions from primary schools up to polytechnics and ITEs. Unfortunately due to the timing of the event, not many members of the public (like myself) was present. I guess only university students would be free during the period of the competition.&lt;/p&gt;</content><category term="robotics"></category></entry><entry><title>SRG Day 1</title><link href="https://blog.melvinzhang.net/srg-day-1" rel="alternate"></link><published>2008-01-09T05:39:00+08:00</published><updated>2008-01-09T05:39:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-01-09:/srg-day-1</id><summary type="html">&lt;p&gt;I usually pass by the Science Center on my way to NUS. Today is the first day of the &lt;a href="http://guppy.mpe.nus.edu.sg/srg/"&gt;Singapore Robotic Games&lt;/a&gt; so I figured I will pop by and have a look and grab lunch at Jurong East before heading to school.&lt;/p&gt;
+&lt;p&gt;There are three events being held this …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I usually pass by the Science Center on my way to NUS. Today is the first day of the &lt;a href="http://guppy.mpe.nus.edu.sg/srg/"&gt;Singapore Robotic Games&lt;/a&gt; so I figured I will pop by and have a look and grab lunch at Jurong East before heading to school.&lt;/p&gt;
+&lt;p&gt;There are three events being held this morning, namely:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Underwater Robot Competition&lt;/li&gt;
+&lt;li&gt;Autonomous Sumo Robot Competition&lt;/li&gt;
+&lt;li&gt;Robot Colony Competition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Robot Colony Competition was the most interesting for me as it involves an interesting combination of hardware and software. In this event, teams must build a pair of autonomous robots that has to collect a number of pellets (blue and green) and deposit the correct colored pellet into a designated hole. There are two collection holes (one for each color) at two opposite corners of the playing field. The playing field is black except for reflective tape at the borders and collection holes. See the YouTube video below for an example.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/q-6QIPOJrVg'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The robot hardware needs to be able to sense the colored pellets on a black featureless platform and have an effective mechanism to separate/store/deposit the two types of pellets. The software components needs to handle localization of the robot and coordination/information sharing between the two robots.&lt;/p&gt;
+&lt;p&gt;Looking forward to the Robot Soccer Competition tomorrow.&lt;/p&gt;</content><category term="robotics"></category></entry></feed>

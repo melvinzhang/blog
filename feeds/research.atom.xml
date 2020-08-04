@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - research</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/research.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2009-12-23T09:37:42+08:00</updated><entry><title>Relevance of research skills</title><link href="https://blog.melvinzhang.net/relevance-of-research-skills" rel="alternate"></link><published>2009-12-23T09:37:42+08:00</published><updated>2009-12-23T09:37:42+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/relevance-of-research-skills</id><summary type="html">&lt;p&gt;I was asked to give a career talk to graduating secondary school students for
+my alma mater, Swiss Cottage Secondary School. I offered to talk about careers
+in IT but was told that it was already taken. I suggested maybe I can talk
+about a career in research and development …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I was asked to give a career talk to graduating secondary school students for
+my alma mater, Swiss Cottage Secondary School. I offered to talk about careers
+in IT but was told that it was already taken. I suggested maybe I can talk
+about a career in research and development instead.&lt;/p&gt;
+&lt;p&gt;In preparation for this talk, I’d thought I will revise a &lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/primer-on-cs-research-and-relevance-of.html"&gt;blog
+post&lt;/a&gt;
+I wrote for the &lt;a href="http://nusschoolofcomputing.blogspot.com"&gt;NUS SoC blog&lt;/a&gt;
+regarding the relevance of research skill.&lt;/p&gt;
+&lt;p&gt;In a nutshell, computer science research is a systematic study of a specific
+problem to derive new methods and design of computer systems to solve real
+world problems.&lt;/p&gt;
+&lt;p&gt;Most of us have to perform various research related activities at one point or another, whether it is working on an project or doing a literature survey for an essay we have to write. In general, a research project consists of the following components: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;identify and formulate the problem to be solved (IMHO, the most important step)&lt;/li&gt;
+&lt;li&gt;review of existing work on related problems (to avoid reinventing the wheel)&lt;/li&gt;
+&lt;li&gt;proposal of a new solution (not as hard as it sounds, often a refinement of an existing solutions or a combination of various other solutions)&lt;/li&gt;
+&lt;li&gt;show that your proposed solution indeed solves the problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Almost all serious projects involved the above steps. That is why research
+skills such as problem formulation, review of related work and design of
+experiments to support your claims are important. In particular, formulating
+the right problem is often the key step towards a solution. To quote the words
+of &lt;a href="http://en.wikipedia.org/wiki/Jiddu_Krishnamurti"&gt;Jiddu Krishnamurti&lt;/a&gt;, an
+Indian philosopher, “If we can really understand the problem, the answer will
+come out of it, because the answer is not separate from the problem”.&lt;/p&gt;</content><category term="research"></category></entry><entry><title>Computational Biology</title><link href="https://blog.melvinzhang.net/computational-biology" rel="alternate"></link><published>2008-04-13T13:51:00+08:00</published><updated>2008-04-13T13:51:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-04-13:/computational-biology</id><summary type="html">&lt;p&gt;Terry Nguyen and Justin suggested that I write about Computational Biology. So here it is :-)&lt;/p&gt;
+&lt;p&gt;Whenever someone asks me what is my major, I'll say that I am part Computer Science and part Computational Biology since my undergraduate was in Computer Science while my HYP and current work is in …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Terry Nguyen and Justin suggested that I write about Computational Biology. So here it is :-)&lt;/p&gt;
+&lt;p&gt;Whenever someone asks me what is my major, I'll say that I am part Computer Science and part Computational Biology since my undergraduate was in Computer Science while my HYP and current work is in Computational Biology. I have to confess that I'm not a real biologist and my biology knowledge is fairly limited, but I have a healthy curiosity in new developments in biology. The diversity and complexity of life has always fascinated me.&lt;/p&gt;
+&lt;p&gt;Computational biology is the application of computational techniques for tackling problems in biology. The problems can be broadly classified into two types. The first is to assist in the design/interpretation/analysis of high throughput experiments, such as micro arrays, tandem mass spectroscopy and DNA sequencing machines. The second is to discover meaningful patterns from biological data to improve our understanding of the underlying biological mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/2008/04/13/computational-biology/11636390-media_httpnbcrsdscedu_oCxpb.gif" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;My own work in the comparative genomics of gene order is from the second category. The data I am considering is a set of gene orders, where a gene order is the sequence of genes that makes up the genome of a species. Although many species share a large number of genes, the arrangement of these genes are different due to large scale rearrangement events (see Figure 1 above) that has the effect of shuffling the genes around.&lt;/p&gt;</content><category term="research"></category></entry></feed>

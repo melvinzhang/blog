@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - tools</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/tools.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2013-05-08T20:57:00+08:00</updated><entry><title>Goodbye Posterous, Hello Octopress</title><link href="https://blog.melvinzhang.net/goodbye-posterous-hello-octopress" rel="alternate"></link><published>2013-05-08T20:57:00+08:00</published><updated>2013-05-08T20:57:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2013-05-08:/goodbye-posterous-hello-octopress</id><summary type="html">&lt;p&gt;Haven't been updaing for while, a lot has happened since my last post. I've
+completed my Computer Science PhD at NUS and I'm now working at
+&lt;a href="http://hoiio.com"&gt;Hoiio&lt;/a&gt; in the API team. &lt;/p&gt;
+&lt;p&gt;The closure of Posterous forced me to do something to keep the site online.
+I've decided to migrate to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Haven't been updaing for while, a lot has happened since my last post. I've
+completed my Computer Science PhD at NUS and I'm now working at
+&lt;a href="http://hoiio.com"&gt;Hoiio&lt;/a&gt; in the API team. &lt;/p&gt;
+&lt;p&gt;The closure of Posterous forced me to do something to keep the site online.
+I've decided to migrate to &lt;a href="http://octopress.org"&gt;Octopress&lt;/a&gt; as it generates a
+set of static files, currently hosted on GitHub Pages.&lt;/p&gt;
+&lt;p&gt;One of the benefits of using my own domain is that I'm able to preserve any
+existing links that point to the old Posterous hosted site. Migration from
+Posterous to Octopress is a lot easier than I expected by following the
+instruction from &lt;a href="http://blog.mikebourgeous.com/2013/04/29/how-i-migrated-from-posterous-to-octopress/"&gt;here&lt;/a&gt;.&lt;/p&gt;</content><category term="tools"></category></entry></feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - teaching</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/teaching.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2009-12-23T09:48:06+08:00</updated><entry><title>Data driven programming assignments</title><link href="https://blog.melvinzhang.net/data-driven-programming-assignments" rel="alternate"></link><published>2009-12-23T09:48:06+08:00</published><updated>2009-12-23T09:48:06+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/data-driven-programming-assignments</id><summary type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/data-driven-programming-assigments.html"&gt;here&lt;/a&gt;
+on 09/01/09.&lt;p&gt;I attended a
+&lt;a href="https://mysoc.nus.edu.sg/%C2%A0cmsem/seminar_files/9655.txt"&gt;talk&lt;/a&gt; by &lt;a href="http://www.cs.cmu.edu/%C2%A0bryant/"&gt;Randall Bryant&lt;/a&gt; on Data Intensive Scalable
+Computing. His focus was on computer systems for processing large amounts of
+data.&lt;/p&gt;
+&lt;p&gt;I realized the importance of data driven computations earlier though my
+experience setting programming assignments. I think it is …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/data-driven-programming-assigments.html"&gt;here&lt;/a&gt;
+on 09/01/09.&lt;p&gt;I attended a
+&lt;a href="https://mysoc.nus.edu.sg/%C2%A0cmsem/seminar_files/9655.txt"&gt;talk&lt;/a&gt; by &lt;a href="http://www.cs.cmu.edu/%C2%A0bryant/"&gt;Randall Bryant&lt;/a&gt; on Data Intensive Scalable
+Computing. His focus was on computer systems for processing large amounts of
+data.&lt;/p&gt;
+&lt;p&gt;I realized the importance of data driven computations earlier though my
+experience setting programming assignments. I think it is important to have
+problems that are realistic; where you want to write the programs in order to
+see the results. Unfortunately, most of the time we are technique driven. We
+try to form a task around a specific method. However, most problems usually
+have a rather trivial solution, therefore we need to impose some unreasonable
+constraints or increase the size of the problem to some unbelievably large size
+in order to force the use of specific techniques.&lt;/p&gt;
+&lt;p&gt;I think the correct approach is to start from the data. There are large amount
+of interesting data that is available over the web, from
+&lt;a href="http://www.imdb.com/interfaces"&gt;movies&lt;/a&gt; to
+&lt;a href="http://www.tagora-project.eu/data/"&gt;tags&lt;/a&gt;. In the UNIX workshop I conducted
+for freshmen orientation 2008, I made use of the &lt;a href="http://www.comp.nus.edu.sg/%C2%A0rpnlpir/downloads/corpora/smsCorpus/"&gt;SMS corpus&lt;/a&gt;
+from the &lt;a href="http://wing.comp.nus.edu.sg/portal/"&gt;WING&lt;/a&gt; research group to
+motivate the use of UNIX pipes.&lt;/p&gt;
+&lt;p&gt;Dealing with large amounts of publicly available real world data gives rise to
+realistic computational problems where the effect of efficient algorithms
+become apparent. Computations that takes hours to run using a naive method can
+be completed in seconds using the correct approach. &lt;/p&gt;   &lt;/p&gt;</content><category term="teaching"></category></entry></feed>

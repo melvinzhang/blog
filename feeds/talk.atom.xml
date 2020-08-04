@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - talk</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/talk.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2010-07-28T10:12:53+08:00</updated><entry><title>The World's Worst Inventions</title><link href="https://blog.melvinzhang.net/the-worlds-worst-inventions" rel="alternate"></link><published>2010-07-28T10:12:53+08:00</published><updated>2010-07-28T10:12:53+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2010-07-28:/the-worlds-worst-inventions</id><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/EyRdnV1D-mI'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Paul Fenwick gave a hilarious talk on some of the worst inventions ever
+conceived at the recent OSCON 2010. Watch out for the sadly short lived
+Acoustic Kitty at 21:00. (more details at &lt;a href="http://en.wikipedia.org/wiki/Acoustic_Kitty"&gt;http://en.wikipedia.org/wiki/Acoustic_Kitty)&lt;/a&gt;)&lt;/p&gt;</content><category term="talk"></category></entry></feed>

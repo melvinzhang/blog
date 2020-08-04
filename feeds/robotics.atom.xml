@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - robotics</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/robotics.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2008-01-13T02:50:00+08:00</updated><entry><title>SRG Day 2</title><link href="https://blog.melvinzhang.net/srg-day-2" rel="alternate"></link><published>2008-01-13T02:50:00+08:00</published><updated>2008-01-13T02:50:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-01-13:/srg-day-2</id><summary type="html">&lt;p&gt;The three events held on the morning of the second day of the Singapore Robotic Games are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RC Sumo&lt;/li&gt;
+&lt;li&gt;Micromouse&lt;/li&gt;
+&lt;li&gt;Robot Soccer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;RC Sumo&lt;/h3&gt;
+&lt;p&gt;RC Sumo is almost the same as the autonomous sumo content, except that the robots are controlled by human handlers. Essentially two robots face off on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The three events held on the morning of the second day of the Singapore Robotic Games are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RC Sumo&lt;/li&gt;
+&lt;li&gt;Micromouse&lt;/li&gt;
+&lt;li&gt;Robot Soccer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;RC Sumo&lt;/h3&gt;
+&lt;p&gt;RC Sumo is almost the same as the autonomous sumo content, except that the robots are controlled by human handlers. Essentially two robots face off on a circular platform and the first robot to be pushed off the platform loses. The inclusion of the handlers makes the matches more exciting as sometimes the autonomous matches simply becomes a straight forward pushing contest. The handlers are typically less aggressive and tend to move about the platform more carefully. SRG's sumo competition is modeled after a contest in Japan, below is a video of the Japanese version.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/7OWopN7Wysg'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Micromouse&lt;/h3&gt;
+&lt;p&gt;Watching the micromouse competition brings back some fond memories of my secondary school days. I was in the Computer Club back then and we had a micromouse group. I was never directly involved with the micromouse teams, but watching an autonomous robot navigate a maze inspired me to think about how problem solving skills can be incorporated into a robot.&lt;/p&gt;
+&lt;h3&gt;Robot Soccer&lt;/h3&gt;
+&lt;p&gt;The highlight of the morning for me was the Robot Soccer Competition. It consists of two competing teams with 6 small cuboid robots each. The objective was to score but pushing a ping pong ball into the opposing team's goal, must like real soccer.The actions of the robots are controlled by a separate computer which is directly connected to a video feed of the top view of the entire playing area. An interesting trick was used to solve the problem of identification and localization of the robots. Each robot has a special colored logo on its top and this is analyzed by the image processing software on the controlling computer.&lt;/p&gt;
+&lt;p&gt;This event is no doubt one of the more difficult ones, as only four teams were registered. The strengths of the teams also differs greatly, for the match I watched the final score was 10:0.&lt;/p&gt;
+&lt;h3&gt;Round up&lt;/h3&gt;
+&lt;p&gt;I didn't have time on Wednesday to attend the last day of the competition, but overall I felt that the SRG was a successful event in that it was able to attract a large number of teams from a variety of institutions from primary schools up to polytechnics and ITEs. Unfortunately due to the timing of the event, not many members of the public (like myself) was present. I guess only university students would be free during the period of the competition.&lt;/p&gt;</content><category term="robotics"></category></entry><entry><title>SRG Day 1</title><link href="https://blog.melvinzhang.net/srg-day-1" rel="alternate"></link><published>2008-01-09T05:39:00+08:00</published><updated>2008-01-09T05:39:00+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-01-09:/srg-day-1</id><summary type="html">&lt;p&gt;I usually pass by the Science Center on my way to NUS. Today is the first day of the &lt;a href="http://guppy.mpe.nus.edu.sg/srg/"&gt;Singapore Robotic Games&lt;/a&gt; so I figured I will pop by and have a look and grab lunch at Jurong East before heading to school.&lt;/p&gt;
+&lt;p&gt;There are three events being held this …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I usually pass by the Science Center on my way to NUS. Today is the first day of the &lt;a href="http://guppy.mpe.nus.edu.sg/srg/"&gt;Singapore Robotic Games&lt;/a&gt; so I figured I will pop by and have a look and grab lunch at Jurong East before heading to school.&lt;/p&gt;
+&lt;p&gt;There are three events being held this morning, namely:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Underwater Robot Competition&lt;/li&gt;
+&lt;li&gt;Autonomous Sumo Robot Competition&lt;/li&gt;
+&lt;li&gt;Robot Colony Competition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Robot Colony Competition was the most interesting for me as it involves an interesting combination of hardware and software. In this event, teams must build a pair of autonomous robots that has to collect a number of pellets (blue and green) and deposit the correct colored pellet into a designated hole. There are two collection holes (one for each color) at two opposite corners of the playing field. The playing field is black except for reflective tape at the borders and collection holes. See the YouTube video below for an example.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/q-6QIPOJrVg'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The robot hardware needs to be able to sense the colored pellets on a black featureless platform and have an effective mechanism to separate/store/deposit the two types of pellets. The software components needs to handle localization of the robot and coordination/information sharing between the two robots.&lt;/p&gt;
+&lt;p&gt;Looking forward to the Robot Soccer Competition tomorrow.&lt;/p&gt;</content><category term="robotics"></category></entry></feed>

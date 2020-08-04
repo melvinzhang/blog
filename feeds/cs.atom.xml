@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - cs</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/cs.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2009-12-23T18:04:53+08:00</updated><entry><title>My favorite algorithm</title><link href="https://blog.melvinzhang.net/my-favorite-algorithm" rel="alternate"></link><published>2009-12-23T18:04:53+08:00</published><updated>2009-12-23T18:04:53+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-12-23:/my-favorite-algorithm</id><summary type="html">&lt;p&gt;This post originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/my-favorite-algorithm.html"&gt;here&lt;/a&gt;
+on 11/01/09. This is the last in a series of reposts from the &lt;a href="http://nusschoolofcomputing.blogspot.com"&gt;NUS SoC
+blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many of the mechanical procedures we learned in primary and secondary school for calculating the result of certain mathematical operations are really just numerical algorithms. Usually we …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post originally appeared
+&lt;a href="http://nusschoolofcomputing.blogspot.com/2009/01/my-favorite-algorithm.html"&gt;here&lt;/a&gt;
+on 11/01/09. This is the last in a series of reposts from the &lt;a href="http://nusschoolofcomputing.blogspot.com"&gt;NUS SoC
+blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many of the mechanical procedures we learned in primary and secondary school for calculating the result of certain mathematical operations are really just numerical algorithms. Usually we start with the &lt;a href="http://en.wikipedia.org/wiki/Elementary_arithmetic#Addition_algorithm"&gt;Addition algorithm&lt;/a&gt; for finding the sum of two numbers, this is typically followed by the &lt;a href="http://en.wikipedia.org/wiki/Elementary_arithmetic#Multiplication"&gt;Multiplication algorithm&lt;/a&gt;, which uses the Addition algorithm and digit shifting. Often we are just taught the steps, but not the reason why following them will give us the correct answer (correctness) or how the steps were developed in the first place (design).&lt;/p&gt;
+&lt;p&gt;The problem posted by Chris Henry on the &lt;a href="http://nusschoolofcomputing.blogspot.com/2008/10/noi-01-task-1_07.html"&gt;frequency of the mode&lt;/a&gt; reminded me of a similar problem, that of finding the majority in a collection of &lt;span class="math"&gt;\(n\)&lt;/span&gt; items. The majority is the item whose frequency is more than &lt;span class="math"&gt;\(n/2\)&lt;/span&gt;. This problem has a very clever but simple &lt;a href="http://www.cs.utexas.edu/%C2%A0moore/best-ideas/mjrty/index.html"&gt;solution&lt;/a&gt; that only needs only one pass over the data. It was listed by one of its inventors, &lt;a href="http://www.cs.utexas.edu/%C2%A0moore/"&gt;J Stother Moore&lt;/a&gt;, as one of his best ideas. It is also my favorite algorithm.&lt;/p&gt;
+&lt;p&gt;What is your favorite algorithm?&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="cs"></category></entry></feed>

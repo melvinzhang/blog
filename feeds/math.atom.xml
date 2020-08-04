@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - math</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/math.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2009-04-04T01:00:17+08:00</updated><entry><title>Blogging from the command line</title><link href="https://blog.melvinzhang.net/blogging-from-the-command-line" rel="alternate"></link><published>2009-04-04T01:00:17+08:00</published><updated>2009-04-04T01:00:17+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2009-04-04:/blogging-from-the-command-line</id><summary type="html">&lt;p&gt;This post is composed in the text editor &lt;a href="http://www.vim.org"&gt;Vim&lt;/a&gt;, using the &lt;a href="http://www.latex-project.org/"&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/a&gt; format and converted to HTML using &lt;a href="http://hevea.inria.fr/"&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A&lt;/a&gt;. The HTML source is posted on this blog using the &lt;a href="http://srackham.wordpress.com/blogpost1/"&gt;blogpost&lt;/a&gt; command line tool.&lt;p&gt;Using such a pipeline, there are several ways to …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post is composed in the text editor &lt;a href="http://www.vim.org"&gt;Vim&lt;/a&gt;, using the &lt;a href="http://www.latex-project.org/"&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/a&gt; format and converted to HTML using &lt;a href="http://hevea.inria.fr/"&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A&lt;/a&gt;. The HTML source is posted on this blog using the &lt;a href="http://srackham.wordpress.com/blogpost1/"&gt;blogpost&lt;/a&gt; command line tool.&lt;p&gt;Using such a pipeline, there are several ways to produce mathematical equations. Either using images produced by H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A, default H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A rendering or using the L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X plugin installed in WordPress. The following compares the result produced by each of these three methods. &lt;/p&gt;
+&lt;h3&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A image&lt;/h3&gt;
+&lt;p&gt;&lt;img src="/images/2009/04/04/blogging-from-the-command-line/11636335-media_httpmelvinzhang_lGJyA.png" width="99"&gt;&lt;/p&gt;
+&lt;h3&gt;H&lt;sup&gt;E&lt;/sup&gt;V&lt;sup&gt;E&lt;/sup&gt;A translation&lt;/h3&gt;
+&lt;p&gt;∑&lt;sub&gt;&lt;i&gt;i&lt;/i&gt;=1&lt;/sub&gt;&lt;i&gt;&lt;sup&gt;n&lt;/sup&gt; i&lt;/i&gt; = &lt;i&gt;n&lt;/i&gt;(&lt;i&gt;n&lt;/i&gt;+1)/2&lt;/p&gt;
+&lt;h3&gt;WordPress image&lt;/h3&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\sum_{i=1}^n i = \frac{n(n+1)}{2}\)&lt;/span&gt;&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="math"></category></entry></feed>
