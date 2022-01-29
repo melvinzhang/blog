@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.melvinzhang.net - programming</title><link href="https://blog.melvinzhang.net/" rel="alternate"></link><link href="https://blog.melvinzhang.net/feeds/programming.atom.xml" rel="self"></link><id>https://blog.melvinzhang.net/</id><updated>2008-05-16T07:19:28+08:00</updated><entry><title>Software is Hard</title><link href="https://blog.melvinzhang.net/software-is-hard" rel="alternate"></link><published>2008-05-16T07:19:28+08:00</published><updated>2008-05-16T07:19:28+08:00</updated><author><name>Melvin Zhang</name></author><id>tag:blog.melvinzhang.net,2008-05-16:/software-is-hard</id><summary type="html">&lt;p&gt;I've been revisiting some code I wrote a couple of months ago in order to
+implement some new ideas. It is amazing how much information you need to keep
+in your head to even start working on a modification of existing code. It took
+me a while to get used …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've been revisiting some code I wrote a couple of months ago in order to
+implement some new ideas. It is amazing how much information you need to keep
+in your head to even start working on a modification of existing code. It took
+me a while to get used to the code again, thankfully I had written some simple
+comments.&lt;/p&gt;
+&lt;p&gt;At the point of writing the program, writing comments seems like a waste of
+time because all the information is already at your fingertips, but if you try
+to work on the program again after a while, you will find the comments
+invaluable.&lt;/p&gt;
+&lt;p&gt;There are other reasons why writing software is so difficult, see this &lt;a href="http://reddit.com/r/programming/info/6j1mf/comments/c03zf02"&gt;Reddit comment&lt;/a&gt;.&lt;/p&gt;</content><category term="programming"></category></entry></feed>
